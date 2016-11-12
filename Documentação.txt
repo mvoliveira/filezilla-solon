@@ -1,0 +1,9 @@
+Editor de imagens png: https://pixlr.com/editor/
+
+Cores em hexadecimal: http://www.color-hex.com/color/808080
+
+Cartilha w3c: http://www.w3c.br/pub/Materiais/PublicacoesW3C/cartilha-w3cbr-acessibilidade-web-fasciculo-I.html
+
+Wikipédia: https://pt.wikipedia.org/wiki/Acessibilidade_web
+
+
